@@ -1,0 +1,20 @@
+Full requirements.txt for Project
+
+plaintext
+
+moviepy==1.0.3
+ffmpeg-python==0.2.0
+
+Steps to Create and Use requirements.txt
+
+    Create requirements.txt
+
+    Open a text editor and paste the content above. Save the file as requirements.txt in your project directory.
+
+    Install Dependencies
+
+    If you're setting up a new environment or sharing the project with others, they can install the dependencies using:
+
+    bash
+
+pip install -r requirements.txt
